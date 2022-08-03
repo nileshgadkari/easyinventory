@@ -8,6 +8,7 @@ public class EasyInventoryApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EasyInventoryApplication.class, args);
+        System.out.println("To trigger build");
     }
 
 }
